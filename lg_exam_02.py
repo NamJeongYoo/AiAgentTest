@@ -1,7 +1,7 @@
 from typing import TypedDict
 from langgraph.graph import StateGraph
 
-# AI가 한 번에 정답을 못 맞췄을 때 스스로 반성하고 다시 시도하는 '반복형 에이전트(Iterative Agent)'의 가장 기초적인 뼈대가 되는 코드
+# LangGraph 예제01 확장: 동일한 루프 그래프에 Mermaid 텍스트와 PNG 이미지로 그래프 구조를 시각화하는 예제
 
 # --- 1. 상태(State) 정의 ---
 class GraphState(TypedDict):

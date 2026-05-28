@@ -1,3 +1,4 @@
+# OpenAI API 기본 호출 예제: chat completions로 단일 응답을 받아 출력하는 기초 예제
 from openai import OpenAI
 
 # OpenAI 클라이언트 생성

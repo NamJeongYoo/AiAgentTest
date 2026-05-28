@@ -1,3 +1,4 @@
+# LangGraph 기초 예제: 조건부 엣지로 value 값이 3이 될 때까지 1씩 증가하는 루프 그래프
 from typing import TypedDict
 from langgraph.graph import StateGraph
 

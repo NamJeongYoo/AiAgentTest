@@ -1,3 +1,4 @@
+# OpenAI API 스트리밍 예제: stream=True로 응답 토큰을 실시간으로 출력하는 예제
 from openai import OpenAI
 
 client = OpenAI()
